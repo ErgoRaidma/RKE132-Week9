@@ -1,0 +1,14 @@
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\bin\Debug\net8.0\Week9Lists.exe
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\bin\Debug\net8.0\Week9Lists.deps.json
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\bin\Debug\net8.0\Week9Lists.runtimeconfig.json
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\bin\Debug\net8.0\Week9Lists.dll
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\bin\Debug\net8.0\Week9Lists.pdb
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\obj\Debug\net8.0\Week9Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\obj\Debug\net8.0\Week9Lists.AssemblyInfoInputs.cache
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\obj\Debug\net8.0\Week9Lists.AssemblyInfo.cs
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\obj\Debug\net8.0\Week9Lists.csproj.CoreCompileInputs.cache
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\obj\Debug\net8.0\Week9Lists.dll
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\obj\Debug\net8.0\refint\Week9Lists.dll
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\obj\Debug\net8.0\Week9Lists.pdb
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\obj\Debug\net8.0\Week9Lists.genruntimeconfig.cache
+C:\Users\Ergo\source\repos\Week9Lists\Week9Lists\obj\Debug\net8.0\ref\Week9Lists.dll
